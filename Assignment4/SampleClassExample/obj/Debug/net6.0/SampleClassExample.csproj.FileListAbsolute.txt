@@ -1,0 +1,15 @@
+D:\MSU\dotnet3\p3\SampleClassExample\bin\Debug\net6.0\SampleClassExample.exe
+D:\MSU\dotnet3\p3\SampleClassExample\bin\Debug\net6.0\SampleClassExample.deps.json
+D:\MSU\dotnet3\p3\SampleClassExample\bin\Debug\net6.0\SampleClassExample.runtimeconfig.json
+D:\MSU\dotnet3\p3\SampleClassExample\bin\Debug\net6.0\SampleClassExample.dll
+D:\MSU\dotnet3\p3\SampleClassExample\bin\Debug\net6.0\ref\SampleClassExample.dll
+D:\MSU\dotnet3\p3\SampleClassExample\bin\Debug\net6.0\SampleClassExample.pdb
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\SampleClassExample.csproj.AssemblyReference.cache
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\SampleClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\SampleClassExample.AssemblyInfoInputs.cache
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\SampleClassExample.AssemblyInfo.cs
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\SampleClassExample.csproj.CoreCompileInputs.cache
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\SampleClassExample.dll
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\ref\SampleClassExample.dll
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\SampleClassExample.pdb
+D:\MSU\dotnet3\p3\SampleClassExample\obj\Debug\net6.0\SampleClassExample.genruntimeconfig.cache
